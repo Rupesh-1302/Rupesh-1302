@@ -1,4 +1,4 @@
-### welcome to my profile! Its nice to have you here👋
+### welcome to my profile! It's nice to have you here👋
 
 <!--
 **Rupesh-1302/Rupesh-1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
